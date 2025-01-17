@@ -10,7 +10,7 @@ public class MoveScripts : MonoBehaviour
     
     void Start()
     {
-        
+       
     }
 
     void Update()
